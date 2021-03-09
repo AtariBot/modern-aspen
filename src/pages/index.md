@@ -115,7 +115,7 @@ sections:
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
-        style: primary
+        style: secondary
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
