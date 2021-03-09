@@ -101,7 +101,7 @@ sections:
     actions:
       - label: View Demo
         url: /docs/getting-started
-        style: primary
+        style: secondary
       - label: Get Started
         url: /docs/getting-started
         style: secondary
