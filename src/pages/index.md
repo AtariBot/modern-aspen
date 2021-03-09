@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Get Started
         url: /docs
-        style: primary
+        style: secondary
   - section_id: features
     type: section_grid
     col_number: three
