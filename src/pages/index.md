@@ -168,6 +168,12 @@ sections:
     type: section_content
   - title: lorem-ipsum
     section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: section_grid
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
