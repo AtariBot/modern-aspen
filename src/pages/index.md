@@ -222,6 +222,12 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: section_grid
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
