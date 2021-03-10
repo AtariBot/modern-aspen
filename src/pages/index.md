@@ -161,7 +161,7 @@ sections:
         type: grid_item
   - section_id: lorem-ipsum
     content: |
-      ## Logistics
+      # Logistics
     actions: []
     type: section_hero
   - section_id: lorem-ipsum
