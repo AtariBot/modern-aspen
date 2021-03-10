@@ -20,7 +20,6 @@ sections:
     content: |
       # Browse sections for our APIs
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     type: section_docs
   - section_id: lorem-ipsum
