@@ -115,6 +115,13 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
       - title: lorem-ipsum
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
