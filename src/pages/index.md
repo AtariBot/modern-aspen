@@ -160,13 +160,6 @@ sections:
         actions: []
         type: grid_item
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    content: |
-      # Logistics
-    actions: []
-    type: section_content
-  - section_id: lorem-ipsum
     content: |
       ## Logistics
     actions: []
