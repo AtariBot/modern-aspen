@@ -226,6 +226,7 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/5.jpg
   - section_id: lorem-ipsum
     col_number: three
     grid_items:
