@@ -17,7 +17,7 @@ sections:
     actions: []
     type: section_content
     content: |
-      # Ecommerce
+      #
   - section_id: lorem-ipsum
     content: |
       # Ecommerce
