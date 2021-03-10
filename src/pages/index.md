@@ -18,8 +18,7 @@ sections:
     type: section_content
     content: |
       # Ecommerce
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: |
       # Ecommerce
     actions: []
