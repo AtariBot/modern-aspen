@@ -17,6 +17,8 @@ sections:
     image_position: left
     actions: []
     type: section_content
+    content: |
+      ## Ecommerce
   - section_id: features
     type: section_grid
     col_number: three
