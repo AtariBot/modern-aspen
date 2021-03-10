@@ -222,8 +222,7 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
     grid_items:
