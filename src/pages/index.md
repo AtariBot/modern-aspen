@@ -24,7 +24,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-          - label: lorem-ipsum
+          - label: API Reference
             url: '#'
             style: link
             icon_class: dev
