@@ -23,6 +23,7 @@ sections:
       # Ecommerce
     actions: []
     type: section_hero
+    image: images/5.jpg
   - section_id: features
     type: section_grid
     col_number: three
