@@ -17,7 +17,7 @@ sections:
     actions: []
     type: section_content
     content: |
-      ## Ecommerce
+      # Ecommerce
   - section_id: features
     type: section_grid
     col_number: three
