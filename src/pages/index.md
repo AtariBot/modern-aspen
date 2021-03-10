@@ -13,13 +13,6 @@ sections:
         style: secondary
     image: images/10.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    actions: []
-    type: section_content
-    content: |
-      # Browse sections for our APIs
-  - section_id: lorem-ipsum
     col_number: three
     type: section_docs
   - section_id: lorem-ipsum
