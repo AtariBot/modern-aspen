@@ -18,6 +18,11 @@ sections:
     type: section_content
     content: |
       # Ecommerce
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: features
     type: section_grid
     col_number: three
