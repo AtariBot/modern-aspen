@@ -18,12 +18,6 @@ sections:
     type: section_content
     content: |
       # Ecommerce
-  - title: Ecommerce
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    actions: []
-    type: section_content
   - section_id: features
     type: section_grid
     col_number: three
