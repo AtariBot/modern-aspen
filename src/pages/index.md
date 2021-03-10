@@ -19,6 +19,11 @@ sections:
     type: section_content
     content: |
       # Browse sections for our APIs
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    type: section_docs
   - section_id: lorem-ipsum
     content: |
       # Ecommerce
