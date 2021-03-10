@@ -218,7 +218,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: lorem-ipsum
+  - title: Supply Chain
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
